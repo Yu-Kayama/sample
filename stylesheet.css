@@ -1,0 +1,233 @@
+li {
+    list-style: none;
+}
+
+.header {
+    width: 1440px;
+    height: 80px;
+}
+
+.header img {
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 60px;
+}
+
+.header-list {
+    float: right;
+    margin-right: 223px;
+    font-family: Hiragino Kaku Gothic ProN;
+}
+
+.header-list li {
+    float: left;
+    padding: 16px 20px;
+    font-weight: 400;
+}
+
+.header2 {
+    width: 1440px;
+    height: 240px;
+    background-color: #e3e9f6;
+    position: relative;
+}
+
+.header2-item1 p {
+    float: left;
+    color: #707070;
+}
+
+.p1  {
+    font-size: 12px;
+    margin-top: 22px;
+    margin-left: 60px;
+    border-bottom: 1px solid #707070
+}
+
+.p2  {
+    font-size: 12px;
+    margin-top: 22px;
+    margin-left: 32px;
+}
+
+.hutou {
+    width: 10px;
+    position: absolute;
+    margin: 25px 99px;
+}
+
+
+
+.p3 {
+    font-size: 35px;
+    font-family: Hiragino Mincho ProN;
+    padding: 90px 0 0 60px;
+    margin-bottom: 0px;
+}
+
+.p4 {
+    width: 98px;
+    font-size: 14px;
+    font-family: Hiragino Kaku Gothic ProN;
+    margin-top: 0px;
+    padding-left: 60px;
+}
+
+.main{
+    height: 1400px;
+}
+
+.main-title1 h1 {
+    margin: 61px 650px 0 652px;
+    font-weight: normal; 
+    width: 138px;
+}
+
+.main-title1 p {
+    margin: 0 650px 0 660px;
+    font-size: 18px;
+    width: 200px;
+}
+
+.main-bunn1 {
+    width: 648px;
+    font-size: 14px;
+    margin-left: 60px;
+    margin-top: 56px;
+    float: left;
+}
+
+.photo1 {
+   width: 424px;
+   height: 300px;
+   margin-left: 136px; 
+   margin-top: 70px;
+}
+
+.main-title2 h1 {
+    margin: 150px 650px 0 652px;
+    font-weight: normal; 
+    width: 138px;
+}
+
+.main-title2 p {
+    margin: 0 650px 0 706px;
+    font-size: 18px;
+    width: 200px;
+    height: 24px;
+}
+
+.subtitle p {
+    float: left;
+    margin: 56px 154px 0 182px;
+}
+
+.photo2{
+    margin-left: 48px;
+}
+
+.photo2 img {
+    width: 424px;
+    height: 239;
+    padding: 0 12px;
+}
+
+.main-bunn2{
+   margin-left: 50px;
+}
+
+.main-bunn2 p {
+   width: 424px; 
+   float: left;
+   padding: 0 12px;
+}
+
+.main-2 {
+    background-color: #e7e7e7;
+    width: 1440px;
+    height:  214px;
+    padding: 40px;
+}
+
+.sasa {
+    height: 54px;
+    width: 216px;
+    background-color: black;
+    margin: 80px 613px;
+}
+
+.sasa p {
+    color: white;
+    padding: 15px 44px;
+}
+
+.main-3 {
+    height: 820px;
+}
+
+.main-title3 h1 {
+    margin: 61px 650px 0 652px;
+    font-weight: normal; 
+    width: 1000px;
+}
+
+.main-title3 p {
+    margin: 0 650px 0 700px;
+    font-size: 18px;
+    width: 200px;
+}
+
+.main-bunn3 {
+    margin-top: 30px;
+    margin-left: 396px;
+    padding-top: 24px;
+    float: left;
+}
+
+.main-bunn4 {
+    padding-top: 50px;
+    margin-left: 396px;
+ 
+}
+
+.main-bunn4 p {
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-left: 192px;
+}
+
+.main-3 img {
+    width: 1320px;
+    height: 316px;
+    margin-top: 40px;
+    margin-left: 60px;
+}
+
+.footer {
+    height: 260px;
+    background-color: #e7e7e7; 
+ }
+ 
+ .footer img {
+     margin-top: 40px;
+     margin-left: 622px;
+ }
+ 
+ .main-bunn5 {
+     margin-left: 300px;
+}
+ 
+ .main-bunn5 p{
+     float: left;
+     padding-left: 50px;
+ }
+
+ .footer-2  {
+     height: 149px;
+     background-color: #e7e7e7;
+     border-top: 1px solid #dbdbdb;
+ }
+
+ .footer-2 p {
+     margin-left: 518px;
+ }
